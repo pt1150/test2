@@ -1,0 +1,162 @@
+経営理念".
+
+「卓越した技術によって　新しい価値を創造し　取り巻く全ての人々と　ともに幸せを作るリスペクトカンパニー」
+
+(たくえつしたぎじゅつによって　あたらしいかちをそうぞうし　とりまくすべてのひとびとと　ともにしあわせをつくるりすぺくとかんぱにー)
+----------------------------
+1940
+八光社－製造工程 予定
+
+下記アカウントにてログインしてください。
+ユーザID：	thinh
+パスワード：	gXrrHvrH
+
+----------------------------------------------
+
+pass ilovex2525
+----------------------------------------------
+ /usr/bin/php /var/www/html/sample2/cron/todo_update.php
+
+
+MSSQLSERVER
+---------------------------------------------
+
+サーバー名：SQLSERVER2008R2
+
+サーバー名：SQLSERVER2012
+ログイン：sa
+パスワード：i4+aDm
+
+------------------------------------------------
+
+[18:26:39] Nguyen The Anh 世英 テアン ?: okabe@ilovex.co.jpa 9202
+[18:27:25] Nguyen The Anh 世英 テアン ?: pass okabe
+[18:29:39] Nguyen The Anh 世英 テアン ?: cai nay la user name + pass de vao
+[18:29:42] Nguyen The Anh 世英 テアン ?: esoko
+
+
+9:30-10:30,10:30-11:00,11:00-12:00,13:00-15:00,15:00-19:00
+
+-----------------------------------------
+
+link server
+
+\\SQLSERVER2008R2
+
+
+S:\project\フレッシュリミックス\CF健全化\30_受信\20160317
+
+
+ilovex_chiba
+[2016/04/06 19:46:34] longan truong: 123456
+
+
+
+S:\project\フレッシュリミックス\CF健全化\30_受信\20160317
+
+S:\project\フレッシュリミックス\CF健全化\03_SS\14_画面設計
+20160406_資料.xlsx
+
+S:\project\フレッシュリミックス\CF健全化\03_SS\20_ＤＢ設計\2016作業用
+エンティティ一覧.XLS
+エンティティ定義書.XLSX
+ーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー
+\\ILAD02\program\download\
+
+
+---------------------------------------------
+system@majitan.com
+
+php 
+
+extension=php_mysql.dll
+extension=php_mysqli.dll
+---------------------------------------------------
+ thu muc chua project
+C:\xampp\htdocs
+
+------------------------------------------[system]
+
+
+pass+123456
+
+
+session_group="sample2"
+
+[db]
+
+db_type="mysql"
+db_host="10.1.81.55"
+db_user="remote"
+db_pwd="i4+aDm"
+db_name="user_sample2"
+
+db_type2="mysql"
+db_host2="10.1.81.55"
+db_user2="remote"
+db_pwd2="i4+aDm"
+db_name2="user_sample2"
+
+
+mysql -u root -i4+aDm
+
+[mail]
+plan_mail_to="info@2tael.co.jp"
+
+
+/var/lib/mysql/mysql.sock
+/etc
+
+info@2tael.co.jp
+
+http://majitan.com/sample2/
+
+
+[mail]
+plan_mail_to="info@2tael.co.jp"
+
+
+plan_check.html  line 110
+
+todo_update.php   line 789
+
+.d_info1
+
+mb_send_mail
+------------
+
+SELECT @@GLOBAL.sql_mode;
+
+STRICT_TRANS_TABLES,NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION
+-------------------------------------------
+SET GLOBAL sql_mode = '';
+SET SESSION sql_mode = '';
+------------------------------------------
+SELECT @@SESSION.sql_mode;
+
+STRICT_TRANS_TABLES,NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION
+------------------------
+C:\xampp\php\php.exe C:\xampp\htdocs\sample2\cron\todo_update.php
+--------------------------------------------------------------------------
+ ilovextest01@gmail.com
+ pass:ilovextest
+ 
+ 
+ 
+chdir("/var/www/html/sample2/cron");
+require_once("./inc/include.inc");
+ -----------------
+chdir("C:/xampp/htdocs/sample2/cron");
+require_once("./inc/include.inc");
+---------------------------
+http://www.liquidweb.com/kb/how-to-install-apache-on-centos-7/
+--------------------------------------------------------------------
+
+* * * * * /usr/bin/php /var/www/html/sample2/cron/todo_update.php
+0 22 * * * root /usr/bin/php /var/www/html/sample/cron/todo_update.php
+
+
+# run everday at 10:45
+45 10 * * *     /path/to/myphpscript.php
+
+------------------------------------------------------------------------------
